@@ -1,6 +1,6 @@
 Update to push me file
-
 labradoodle
-
-
 EVERYTHING IS DIFFERENT NOWWW!
+We are now working in the same file and that this is probably gonna
+cause merging issues. By the way Carthage should be burned to the 
+ground.
